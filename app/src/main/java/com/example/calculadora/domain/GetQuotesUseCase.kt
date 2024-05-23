@@ -1,5 +1,6 @@
 package com.example.calculadora.domain
 
+import com.example.calculadora.data.dto.LoginDTO
 import com.example.calculadora.data.model.QuoteModel
 import com.example.calculadora.data.repositories.QuoteRepository
 
